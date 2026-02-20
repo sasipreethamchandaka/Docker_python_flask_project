@@ -1,6 +1,6 @@
 # 🚀 Python Flask Application Deployment Using Docker
 
-### Goal
+### Goal ###
 
 Run a **Python Flask application inside a Docker container** with full automation.
 
