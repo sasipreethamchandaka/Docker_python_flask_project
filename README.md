@@ -59,6 +59,7 @@ flask
 yum install python3-pip
 pip3 install -r requirements.txt
 python3 app.py
+---- hit public-ip:5000-------------
 ```
 
 Expected output:
