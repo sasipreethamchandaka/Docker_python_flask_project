@@ -56,6 +56,7 @@ flask
 ### Step 2: Test Flask App Locally (Without Docker)
 
 ```bash
+yum install python3-pip
 pip3 install -r requirements.txt
 python3 app.py
 ```
